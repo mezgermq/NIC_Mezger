@@ -1,0 +1,1 @@
+To create the essay, run "NIC_Mezger.tex" once with LateX, twice with BibTex, and then twice with LaTeX again.
